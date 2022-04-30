@@ -1,0 +1,8 @@
+How the beautiful soup python library works.
+
+First it pulls data out of HTML and XML files.
+It then transforms the HTML into a complex tree of Python objects.
+Finally, it provides methods to navigate, search and modify the complex tree of objects.
+
+Beautiful Soup Parsers.
+We could use the html.parser or the lxml parser. The lxml parser we need to install with pip.
